@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aman patel
+Skills: HTML, CSS, JS, Next.js,DSA, react,mongodb,python,c++,java
+Email: amanpatel8497@gmail.com
+{{/user}}
